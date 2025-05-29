@@ -1,4 +1,6 @@
 #PAHSE 1
+
+
 #💼 Java-Based Appointment Management System
 This Java project is a console-based appointment management system featuring multiple user roles such as Admin, Manager, and general users (referred to as "man"). It provides basic functionalities for handling appointments, possibly in contexts like clinics, salons, or other scheduling-focused services.
 
