@@ -28,3 +28,14 @@ OOP (Encapsulation, Inheritance)
 Possibly File I/O or Serialization (if data is stored locally)
 
 #PHASE 2
+
+✅ Features:
+Admin authentication and role-based access
+
+Appointment creation and management with response from the doctor wither (accept-delete-reschedual)
+
+file handling or object persistence 
+
+UI/UX with clear interaction flow
+
+Messages from the doctor to specific patient and the opposite
